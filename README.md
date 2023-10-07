@@ -1,6 +1,10 @@
 # Stable Diffusion web UI
 A browser interface based on Gradio library for Stable Diffusion.
 
+<p align="center">
+  <a href="https://studiolab.sagemaker.aws/import/github/godtrex99/stable-wibu/blob/main/tes.ipynb"><img src="https://img.shields.io/badge/SAGEMAKER-blue?style=for-the-badge&color=blue"></a> <br>
+</p>
+
 ![](screenshot.png)
 
 ## Features
